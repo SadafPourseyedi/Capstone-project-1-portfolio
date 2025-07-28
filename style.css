@@ -1,0 +1,40 @@
+.btn-primary,
+.bg-primary {
+  background-color: rgb(91, 115, 153) !important;
+  border-color: rgb(91, 115, 153) !important;
+}
+.nav-link {
+  color: rgb(91, 115, 153) !important;
+}
+.home {
+  background-color: rgb(91, 115, 153) !important;
+  color: white !important;
+}
+.logo {
+  background-color: white !important;
+  border-radius: 50%;
+}
+.frontend span {
+  font-size: 25px;
+  font-weight: lighter;
+}
+.progress-bar {
+  background-color: rgb(91, 115, 153);
+}
+.footer {
+  background-color: rgb(91, 115, 153) !important;
+  margin: 0px !important;
+  width: 100% !important;
+}
+.footer a {
+  color: white !important;
+}
+.Project a {
+  text-decoration: none !important;
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+}
+.Project :hover {
+  opacity: 50%;
+}
